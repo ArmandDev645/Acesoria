@@ -1,0 +1,318 @@
+.btn-insertar{
+	position: relative;
+	color: gold;
+	background: #ffffff;
+	font-family:Verdana,Helvetica;
+	top: 50px;
+	left: 100px;
+	width: 240px;
+	height: 50px;
+	border:0px;
+	font-size:20px;
+	font-weight:bold;
+	 border-top: 4px dashed #FFD700;
+   border-right: 4px dashed #FFD700;   
+   border-bottom: 4px dashed #FFD700;
+   border-left: 4px dashed #FFD700;
+   border-radius: 6px;
+}
+.btn-modificar{
+position: relative;
+	color: gold;
+	background: #ffffff;
+	font-family:Verdana,Helvetica;
+	left: 400px;
+	width: 240px;
+	height: 50px;
+	border:0px;
+	font-size:20px;
+	font-weight:bold;
+	  border-top: 4px dashed #FFD700;
+   border-right: 4px dashed #FFD700;   
+   border-bottom: 4px dashed #FFD700;
+   border-left: 4px dashed #FFD700;
+   border-radius: 6px;
+}
+.btn-eliminar{
+position: relative;
+	color: black;
+	background: #ffffff;
+	font-family:Verdana,Helvetica;
+	top: -50px;
+	left: 700px;
+	width: 240px;
+	height: 50px;
+	border:0px;
+	font-size:20px;
+	font-weight:bold;
+	 border-top: 4px dashed #000000;
+   border-right: 4px dashed #000000;   
+   border-bottom: 4px dashed #000000;
+   border-left: 4px dashed #000000;
+   border-radius: 6px;
+}
+.btn-mostrar{
+	position: relative;
+	color: white;
+	background: #000000;
+	font-family:Verdana,Helvetica;
+	top: -100px;
+	left: 1000px;
+	width: 240px;
+	height: 50px;
+	border:1px;
+	font-size:20px;
+	font-weight:bold;
+	 border-top: 1px double #ff9999;
+   border-right: 2px double #99ff99;   
+   border-bottom: 2px double #9999ff;
+   border-left: 4px double #666666;
+}
+.autolavado{
+	position: relative;
+	font: oblique bold 700% cursive;
+	top: 100px;
+	left: 300px;
+	color: #FFD700;   
+}
+
+
+
+
+
+.l-id-cliente{
+	position: relative;
+	left: 10px;
+	color: #f00;
+}
+.l-nom-cliente{
+	position: relative;
+	left: 60px;
+	color: #f00;
+}
+.l-ma-cliente{
+	position: relative;
+	left:175px;
+	color: #f00;
+}
+.l-dir-cliente{
+	position: relative;
+	left: 290px;
+	color: #f00;
+}
+.l-tel-cliente{
+	position: relative;
+	left: 390px;
+	color: #f00;
+}
+.l-correo-cliente{
+	position: relative;
+	left: 510px;
+	color: #f00;
+}
+.btn-registro-cliente{
+    position: relative;
+	left: 100px;
+	width: 120px;
+	height: 40px;  
+	border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4; 
+}
+.in-is-cliente{
+    position: relative;
+	left: 80px;
+}
+.in-nom-cliente{
+    border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+.in-ma-cliente{
+	border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+.in-dir-cliente{
+	border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+.in-tel-cliente{
+	border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+.in-correo-cliente{
+	border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+.in-id-cliente{
+	color: #f00;
+}
+.regresar-cliente{
+	position: relative;
+	top: 200px;
+	left: 600px;
+	width: 120px;
+	height: 40px;  
+	border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+.mensaje-cliente{
+	position: relative;
+	top: 50px;
+	left: 300px;
+	color: #ff69b4;
+	font-size: 4em;
+}
+
+
+
+
+
+
+.l-id-categoria{
+	position: relative;
+	left: 10px;
+	color: #f00;
+}
+.l-nom-categoria{
+	position: relative;
+	left: 60px;
+	color: #f00;
+}
+.l-ma-categoria{
+	position: relative;
+	left:175px;
+	color: #f00;
+}
+.in-nom-categoria{
+    border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+.in-ma-categoria{
+	border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+
+.btn-registro-categoria{
+    position: relative;
+	left: 100px;
+	width: 120px;
+	height: 40px;  
+	border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4; 
+}
+
+.servicio-nom{
+    border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+
+
+
+
+
+
+.servicio-id{
+  position: relative;
+  left: 10px;
+  color: #f00;
+}
+.servicio-nom{
+  position: relative;
+  left: 50px;
+  color: #f00;
+}
+.servicio-des{
+  position: relative;
+  left: 170px;
+  color: #f00;
+}
+.servicio-ca{
+  position: relative;
+  left: 260px;
+  color: #f00;
+}
+.restringido-servicio{
+   color: #f00;
+}
+.servicio-nom-in{
+  position: relative;
+  border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;
+}
+.in-ma-servicio{
+ position: relative;
+  border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4; 
+}
+.in-ca-servicio{
+  position: relative;
+  border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4;  
+}
+.btn-registro-servicio{
+    position: relative;
+  left: 70px;
+  width: 120px;
+  height: 40px;  
+  border-top: 4px solid #f00;
+   border-right: 4px solid #f00;   
+   border-bottom: 4px solid #f00;
+   border-left: 4px solid #f00;
+   border-radius: 4px;
+   background: #ff69b4; 
+}
